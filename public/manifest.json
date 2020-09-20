@@ -10,10 +10,10 @@
     "default_title": "Open the popup"
   },
   "icons": {
-    "16": "logo-small.jpg",
-    "48": "logo-small.jpg",
-    "128": "logo-small.jpg"
+    "16": "butler.png",
+    "48": "butler.png",
+    "128": "butler.png"
   },
-  "content_security_policy": "script-src 'self' 'sha256-qcGc3Ir7FstCZ+prNm+8oPZQd/6MWhJ0tlAhRFRgGxg='; object-src 'self'",
+  "content_security_policy": "script-src 'self' 'sha256-NCZTfu7RJQxmG3O+2zdvKZg0t4DlxJ/WD7sCZP+iNB4='; object-src 'self'",
   "permissions": []
 }
